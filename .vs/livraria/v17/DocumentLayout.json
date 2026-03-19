@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos\\C# Rocketseat\\livraria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|d:\\cursos\\c# rocketseat\\livraria\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|solutionrelative:controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|d:\\cursos\\c# rocketseat\\livraria\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|solutionrelative:livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|d:\\cursos\\c# rocketseat\\livraria\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|solutionrelative:genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|d:\\cursos\\c# rocketseat\\livraria\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenreEnum.cs",
+              "DocumentMoniker": "D:\\Cursos\\C# Rocketseat\\livraria\\GenreEnum.cs",
+              "RelativeDocumentMoniker": "GenreEnum.cs",
+              "ToolTip": "D:\\Cursos\\C# Rocketseat\\livraria\\GenreEnum.cs",
+              "RelativeToolTip": "GenreEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T22:10:13.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "D:\\Cursos\\C# Rocketseat\\livraria\\Livro.cs",
+              "RelativeDocumentMoniker": "Livro.cs",
+              "ToolTip": "D:\\Cursos\\C# Rocketseat\\livraria\\Livro.cs",
+              "RelativeToolTip": "Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T21:54:17.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "D:\\Cursos\\C# Rocketseat\\livraria\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LivroController.cs",
+              "ToolTip": "D:\\Cursos\\C# Rocketseat\\livraria\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "Controllers\\LivroController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T21:49:58.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\Cursos\\C# Rocketseat\\livraria\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
+              "ToolTip": "D:\\Cursos\\C# Rocketseat\\livraria\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T21:42:00.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
