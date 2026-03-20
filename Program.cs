@@ -1,13 +1,17 @@
+using livraria.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+// Register repository as singleton (in-memory shared state)
+builder.Services.AddSingleton<IBookRepository, InMemoryBookRepository>();
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddRouting(option => option.LowercaseUrls = true);
+builder.Services.AddRouting(option => option.LowercaseUrls = true);     
 
 var app = builder.Build();
 

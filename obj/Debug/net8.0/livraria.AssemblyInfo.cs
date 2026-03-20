@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("livraria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a15edb0324b3b1bb3d3a2124d786ba0febac0b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("livraria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("livraria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

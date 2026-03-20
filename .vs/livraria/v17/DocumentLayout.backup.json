@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\Cursos\\C# Rocketseat\\livraria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|d:\\cursos\\c# rocketseat\\livraria\\controllers\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|solutionrelative:controllers\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|d:\\cursos\\c# rocketseat\\livraria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|d:\\cursos\\c# rocketseat\\livraria\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|d:\\cursos\\c# rocketseat\\livraria\\services\\inmemorybookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|solutionrelative:services\\inmemorybookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|d:\\cursos\\c# rocketseat\\livraria\\services\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|solutionrelative:services\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|d:\\cursos\\c# rocketseat\\livraria\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|solutionrelative:genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|d:\\cursos\\c# rocketseat\\livraria\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|solutionrelative:entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB6F25C4-C8A0-4372-A23A-10F398F6B1B3}|livraria.csproj|d:\\cursos\\c# rocketseat\\livraria\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,24 +38,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Livro.cs",
-              "DocumentMoniker": "D:\\Cursos\\C# Rocketseat\\livraria\\Controllers\\Livro.cs",
-              "RelativeDocumentMoniker": "Controllers\\Livro.cs",
-              "ToolTip": "D:\\Cursos\\C# Rocketseat\\livraria\\Controllers\\Livro.cs",
-              "RelativeToolTip": "Controllers\\Livro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Cursos\\C# Rocketseat\\livraria\\Services\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Services\\IBookRepository.cs",
+              "ToolTip": "D:\\Cursos\\C# Rocketseat\\livraria\\Services\\IBookRepository.cs",
+              "RelativeToolTip": "Services\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T21:48:49.003Z",
+              "WhenOpened": "2026-03-20T01:05:37.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos\\C# Rocketseat\\livraria\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Cursos\\C# Rocketseat\\livraria\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T00:45:49.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InMemoryBookRepository.cs",
+              "DocumentMoniker": "D:\\Cursos\\C# Rocketseat\\livraria\\Services\\InMemoryBookRepository.cs",
+              "RelativeDocumentMoniker": "Services\\InMemoryBookRepository.cs",
+              "ToolTip": "D:\\Cursos\\C# Rocketseat\\livraria\\Services\\InMemoryBookRepository.cs",
+              "RelativeToolTip": "Services\\InMemoryBookRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAvwAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T00:45:47.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenreEnum.cs",
+              "DocumentMoniker": "D:\\Cursos\\C# Rocketseat\\livraria\\GenreEnum.cs",
+              "RelativeDocumentMoniker": "GenreEnum.cs",
+              "ToolTip": "D:\\Cursos\\C# Rocketseat\\livraria\\GenreEnum.cs",
+              "RelativeToolTip": "GenreEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T22:10:13.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Cursos\\C# Rocketseat\\livraria\\Entity\\Book.cs",
+              "RelativeDocumentMoniker": "Entity\\Book.cs",
+              "ToolTip": "D:\\Cursos\\C# Rocketseat\\livraria\\Entity\\Book.cs",
+              "RelativeToolTip": "Entity\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T21:54:17.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Cursos\\C# Rocketseat\\livraria\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "D:\\Cursos\\C# Rocketseat\\livraria\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T21:49:58.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "BaseController.cs",
               "DocumentMoniker": "D:\\Cursos\\C# Rocketseat\\livraria\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
@@ -43,8 +128,7 @@
               "RelativeToolTip": "Controllers\\BaseController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T21:42:00.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T21:42:00.254Z"
             }
           ]
         }

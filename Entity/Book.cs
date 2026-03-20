@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace livraria.Controllers;
+namespace livraria.Entity;
 
-public class Livro
+public class Book
 {
     public Guid Id { get; set; }        //Gerado automaticamente pelo sistema.
     public string Title { get; set; }   //Deve ter entre 2 e 120 caracteres.
